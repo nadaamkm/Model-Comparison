@@ -8,6 +8,7 @@ affordable set of potential buying customers.
 
 ### Findings
 Knn is the best model for predictions as it achieved the highest metrics
+
 Train -
 - Precision : 0.89
 - Recall: 0.98
